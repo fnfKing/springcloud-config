@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: dev
+coinfig:
+  info: fnf
